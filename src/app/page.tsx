@@ -51,45 +51,45 @@ export default function LandingPage() {
       description="Brățări handmade elegante pentru orice ocazie. Descoperă colecția noastră de brățări unice, realizate cu grijă și pasiune."
       leftCarouselItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/buta-shape-blue-jewelry-pin_114579-12097.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/buta-shape-blue-jewelry-pin_114579-12097.jpg?_wi=1",
           imageAlt: "Brățară 1",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/quran-holly-book-islam_93675-131572.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/quran-holly-book-islam_93675-131572.jpg?_wi=1",
           imageAlt: "Brățară 2",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-woman-making-accessories_23-2148264376.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-woman-making-accessories_23-2148264376.jpg?_wi=1",
           imageAlt: "Brățară 3",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/female-artisan-working-with-beaded-necklace_23-2149025923.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/female-artisan-working-with-beaded-necklace_23-2149025923.jpg?_wi=1",
           imageAlt: "Brățară 4",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/buta-shape-blue-jewelry-pin_114579-12097.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/buta-shape-blue-jewelry-pin_114579-12097.jpg?_wi=2",
           imageAlt: "Brățară 5",
         },
       ]}
       rightCarouselItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-woman-making-accessories_23-2148264376.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-woman-making-accessories_23-2148264376.jpg?_wi=2",
           imageAlt: "Brățară 6",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/female-artisan-working-with-beaded-necklace_23-2149025923.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/female-artisan-working-with-beaded-necklace_23-2149025923.jpg?_wi=2",
           imageAlt: "Brățară 7",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/buta-shape-blue-jewelry-pin_114579-12097.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/buta-shape-blue-jewelry-pin_114579-12097.jpg?_wi=3",
           imageAlt: "Brățară 8",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/quran-holly-book-islam_93675-131572.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/quran-holly-book-islam_93675-131572.jpg?_wi=2",
           imageAlt: "Brățară 9",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-woman-making-accessories_23-2148264376.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-woman-making-accessories_23-2148264376.jpg?_wi=3",
           imageAlt: "Brățară 10",
         },
       ]}
@@ -159,28 +159,28 @@ export default function LandingPage() {
           name: "Brățară Elegantă",
           price: "50 lei",
           variant: "Handmade",
-          imageSrc: "http://img.b2bpic.net/free-photo/quran-holly-book-islam_93675-131572.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/quran-holly-book-islam_93675-131572.jpg?_wi=3",
         },
         {
           id: "p2",
           name: "Brățară cu Perle",
           price: "70 lei",
           variant: "Handmade",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-woman-making-accessories_23-2148264376.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-woman-making-accessories_23-2148264376.jpg?_wi=4",
         },
         {
           id: "p3",
           name: "Brățară Casual",
           price: "40 lei",
           variant: "Handmade",
-          imageSrc: "http://img.b2bpic.net/free-photo/female-artisan-working-with-beaded-necklace_23-2149025923.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/female-artisan-working-with-beaded-necklace_23-2149025923.jpg?_wi=3",
         },
         {
           id: "p4",
           name: "Brățară Boho",
           price: "45 lei",
           variant: "Handmade",
-          imageSrc: "http://img.b2bpic.net/free-photo/buta-shape-blue-jewelry-pin_114579-12097.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/buta-shape-blue-jewelry-pin_114579-12097.jpg?_wi=4",
         },
       ]}
       title="Brățările noastre"
@@ -218,7 +218,7 @@ export default function LandingPage() {
         placeholder: "Adresă livrare",
         required: true,
       }}
-      imageSrc="http://img.b2bpic.net/free-photo/woman-making-origami-with-japanese-paper_23-2149048359.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/woman-making-origami-with-japanese-paper_23-2149048359.jpg?_wi=1"
       mediaAnimation="blur-reveal"
     />
   </div>
@@ -265,7 +265,7 @@ export default function LandingPage() {
           quote: "Brățările sunt superbe și foarte bine lucrate!",
           tag: "Client fidel",
           avatarSrc: "http://img.b2bpic.net/free-photo/quran-holly-book-islam_93675-131572.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/buta-shape-blue-jewelry-pin_114579-12097.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/buta-shape-blue-jewelry-pin_114579-12097.jpg?_wi=5",
           imageAlt: "elegant handmade jewelry close up",
         },
         {
@@ -276,7 +276,7 @@ export default function LandingPage() {
           quote: "Am cumpărat un cadou și a fost foarte apreciat.",
           tag: "Cadou",
           avatarSrc: "http://img.b2bpic.net/free-photo/close-up-woman-making-accessories_23-2148264376.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/quran-holly-book-islam_93675-131572.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/quran-holly-book-islam_93675-131572.jpg?_wi=4",
           imageAlt: "elegant handmade beaded bracelet",
         },
         {
@@ -287,7 +287,7 @@ export default function LandingPage() {
           quote: "A ajuns coletul foarte repede. Mulțumesc!",
           tag: "Livrare",
           avatarSrc: "http://img.b2bpic.net/free-photo/female-artisan-working-with-beaded-necklace_23-2149025923.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-woman-making-accessories_23-2148264376.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-woman-making-accessories_23-2148264376.jpg?_wi=5",
           imageAlt: "pearl bracelet jewelry handmade",
         },
         {
@@ -298,7 +298,7 @@ export default function LandingPage() {
           quote: "Nu am mai văzut modele atât de frumoase.",
           tag: "Stil",
           avatarSrc: "http://img.b2bpic.net/free-photo/buta-shape-blue-jewelry-pin_114579-12097.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/female-artisan-working-with-beaded-necklace_23-2149025923.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/female-artisan-working-with-beaded-necklace_23-2149025923.jpg?_wi=4",
           imageAlt: "casual minimalist handmade bracelet",
         },
         {
@@ -309,7 +309,7 @@ export default function LandingPage() {
           quote: "O experiență minunată de cumpărături.",
           tag: "Recomandare",
           avatarSrc: "http://img.b2bpic.net/free-photo/quran-holly-book-islam_93675-131572.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-making-origami-with-japanese-paper_23-2149048359.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-making-origami-with-japanese-paper_23-2149048359.jpg?_wi=2",
           imageAlt: "hand making jewelry craft table",
         },
       ]}
